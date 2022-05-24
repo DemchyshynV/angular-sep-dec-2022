@@ -1,0 +1,12 @@
+.container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50px;
+  background-color: blue;
+}
+a{
+  text-decoration: none;
+  padding: 0 25px;
+  color: snow;
+}

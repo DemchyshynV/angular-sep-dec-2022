@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  API:''
+  API:'http://owu.linkpc.net/api/v3'
 };
 
 /*
